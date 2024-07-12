@@ -1,4 +1,3 @@
-import { useState } from "react";
 import { useMode, ColorModeContext } from "./theme";
 import { Routes, Route } from "react-router-dom";
 import { CssBaseline } from "@mui/material";
